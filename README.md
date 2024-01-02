@@ -4,6 +4,8 @@ This code implements a full inference pipeline for our captioning technique ([de
 
 Here is the full inference pipeline in a [Jupyter Notebook](full_inference_pipeline.ipynb).
 
+This image shows the attention scores for each patch for generating the caption.
+
 ![Inference Image](./image_files/attn_viz/GTEX-13FLV-0326.png)
 
 Ref:
