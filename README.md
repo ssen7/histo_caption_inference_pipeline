@@ -1,6 +1,6 @@
 # histo_caption_inference_pipeline
 
-This code implements a full inference pipeline for our captioning technique [described here](https://github.com/ssen7/histo_cap_transformers) for our paper utilizing pre-trained Vision Transformers,i.e., [HIPT](https://github.com/mahmoodlab/HIPT) from Chen et al. 2022 and [BioClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) as decoder, and we thank them for sharing their code as it helped us tremendously.
+This code implements a full inference pipeline for our captioning technique ([described here](https://github.com/ssen7/histo_cap_transformers)) for our paper utilizing pre-trained Vision Transformers,i.e., [HIPT](https://github.com/mahmoodlab/HIPT) from Chen et al. 2022 and [BioClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) as decoder, and we thank them for sharing their code as it helped us tremendously.
 
 Here is the full inference pipeline in a [Jupyter Notebook](full_inference_pipeline.ipynb).
 
